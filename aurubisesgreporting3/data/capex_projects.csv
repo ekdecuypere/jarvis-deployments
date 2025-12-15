@@ -1,0 +1,16 @@
+project_id,project_name,site,category,total_investment_eur,spent_to_date_eur,remaining_budget_eur,start_date,planned_completion,actual_completion,status,capacity_increase_pct,annual_savings_eur,co2_reduction_tons,payback_years,irr_pct,npv_eur,risk_rating,project_manager,notes
+CAPEX-001,Richmond Multimetal Plant,Richmond,Strategic Growth,740000000,680000000,60000000,2022-01-01,2025-06-30,2025-09-01,Operational,0,45000000,15000,8.2,14.5,125000000,Medium,J. Williams,Ramp-up to full capacity in progress
+CAPEX-002,Pirdop Tankhouse Expansion,Pirdop,Capacity Expansion,120000000,45000000,75000000,2024-06-01,2025-12-31,N/A,In Progress,50,28000000,8000,4.3,22.1,85000000,Low,S. Dimitrov,Largest investment since 2008 acquisition
+CAPEX-003,Hamburg H2-Ready Furnaces,Hamburg,Decarbonization,40000000,35000000,5000000,2023-01-01,2024-12-31,2024-11-15,Completed,0,5200000,5000,7.7,12.8,18000000,Low,M. Schneider,Pilot successful - scale-up planned
+CAPEX-004,Hamburg Environmental Upgrade,Hamburg,Environmental,55000000,12000000,43000000,2025-01-01,2026-06-30,N/A,In Progress,0,3500000,3500,15.7,6.2,8500000,Low,Dr. Mueller,EIB funded project
+CAPEX-005,Olen Solar Installation,Olen,Renewable Energy,18000000,16500000,1500000,2023-06-01,2024-09-30,2024-10-15,Completed,0,2800000,4200,6.4,15.6,12000000,Low,P. Vermeer,Phase 2 approved
+CAPEX-006,Digital Factory Initiative,All Sites,Digital Transformation,25000000,18000000,7000000,2022-01-01,2025-12-31,N/A,In Progress,0,8500000,0,2.9,34.2,42000000,Medium,CTO Office,IoT platform deployment
+CAPEX-007,Battery Recycling Pilot,Hamburg,Innovation,15000000,14200000,800000,2023-03-01,2024-12-31,2024-12-15,Completed,0,1200000,800,12.5,8.0,2500000,High,R&D Team,Technology proven - scale decision pending
+CAPEX-008,Lunen Efficiency Program,Lunen,Operational Excellence,8000000,7500000,500000,2023-09-01,2024-12-31,2024-11-30,Completed,0,2400000,1500,3.3,30.0,15000000,Low,K. Weber,Exceeded savings target
+CAPEX-009,Pori Wind PPA Infrastructure,Pori,Renewable Energy,12000000,11000000,1000000,2023-01-01,2024-06-30,2024-07-15,Completed,0,1800000,2800,6.7,14.9,8000000,Low,M. Korhonen,Long-term PPA secured
+CAPEX-010,Beerse Heat Recovery,Beerse,Energy Efficiency,6500000,6000000,500000,2023-06-01,2024-09-30,2024-09-15,Completed,0,1100000,950,5.9,16.9,4500000,Low,L. Peeters,District heating supply
+CAPEX-011,Hamburg H2 Scale-Up,Hamburg,Decarbonization,85000000,5000000,80000000,2025-01-01,2027-06-30,N/A,Planning,0,12000000,12000,7.1,14.1,35000000,Medium,M. Schneider,Depends on H2 availability
+CAPEX-012,Olen Solar Phase 2,Olen,Renewable Energy,12000000,2000000,10000000,2025-03-01,2025-12-31,N/A,In Progress,0,1900000,2800,6.3,15.9,8500000,Low,P. Vermeer,Building on Phase 1 success
+CAPEX-013,Richmond Phase 2,Richmond,Strategic Growth,150000000,0,150000000,2026-01-01,2028-06-30,N/A,Approved,40,22000000,6000,6.8,14.7,45000000,Medium,J. Williams,Board approved - awaiting start
+CAPEX-014,Cybersecurity Upgrade,All Sites,IT Security,8500000,4200000,4300000,2024-01-01,2025-06-30,N/A,In Progress,0,500000,0,17.0,5.9,1200000,Low,CISO,Critical infrastructure protection
+CAPEX-015,SAP S/4HANA Migration,All Sites,Digital Transformation,35000000,8000000,27000000,2024-06-01,2026-12-31,N/A,In Progress,0,4500000,0,7.8,12.8,12000000,High,CIO Office,Enterprise-wide upgrade

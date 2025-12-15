@@ -1,0 +1,26 @@
+position_id,commodity,position_type,volume_tons,contract_price_usd,current_market_price_usd,expiry_date,counterparty,site_allocation,hedged_pct,mtm_value_usd
+POS-001,Copper Cathode,Long Physical,15000,9150,9200,2025-03-31,Glencore Trading,Hamburg,85,-750000
+POS-002,Copper Cathode,Long Physical,8500,9080,9200,2025-03-31,Trafigura,Pirdop,90,1020000
+POS-003,Copper Cathode,Short Forward,12000,9300,9200,2025-06-30,JPMorgan Metals,Hamburg,100,1200000
+POS-004,Copper Cathode,Long Physical,6200,9175,9200,2025-03-31,Mercuria,Olen,75,155000
+POS-005,Copper Concentrate,Long Physical,25000,8200,8350,2025-02-28,Codelco,Pirdop,60,3750000
+POS-006,Copper Concentrate,Long Physical,18000,8150,8350,2025-02-28,BHP Trading,Hamburg,70,3600000
+POS-007,Copper Scrap,Long Physical,12000,8400,8520,2025-01-31,TSR Recycling,Lunen,40,1440000
+POS-008,Copper Scrap,Long Physical,8500,8350,8520,2025-01-31,Scholz Recycling,Beerse,35,1445000
+POS-009,Gold,Long Physical,145,62500,63200,2025-03-31,Metalor,Hamburg,95,101500
+POS-010,Gold,Short Forward,120,63500,63200,2025-06-30,HSBC Metals,Hamburg,100,36000
+POS-011,Silver,Long Physical,3200,28.50,29.10,2025-03-31,Johnson Matthey,Hamburg,80,1920000
+POS-012,Silver,Long Physical,1800,28.20,29.10,2025-03-31,Heraeus,Olen,85,1620000
+POS-013,Platinum,Long Physical,85,980,1015,2025-03-31,Anglo Platinum,Hamburg,70,2975
+POS-014,Palladium,Long Physical,62,1050,1085,2025-03-31,Norilsk Trading,Hamburg,65,2170
+POS-015,Sulfuric Acid,Short Physical,45000,95,102,2025-06-30,BASF,Hamburg,0,315000
+POS-016,Sulfuric Acid,Short Physical,28000,98,102,2025-06-30,Yara,Pirdop,0,112000
+POS-017,Copper Cathode,Long Physical,4500,9120,9200,2025-03-31,Louis Dreyfus,Pori,80,360000
+POS-018,Copper Cathode,Long Physical,3200,9050,9200,2025-03-31,Cargill Metals,Richmond,50,480000
+POS-019,E-Waste Material,Long Physical,8500,4200,4350,2025-01-31,Sims Recycling,Richmond,0,1275000
+POS-020,E-Waste Material,Long Physical,6200,4150,4350,2025-01-31,Stena Recycling,Beerse,0,1240000
+POS-021,Nickel,Long Physical,2800,16500,17200,2025-03-31,Vale Trading,Richmond,55,1960000
+POS-022,Tin,Long Physical,1200,28500,29100,2025-03-31,MSC Trading,Richmond,45,720000
+POS-023,Copper Cathode,Short Forward,8000,9400,9200,2025-09-30,Morgan Stanley,Olen,100,1600000
+POS-024,Copper Cathode,Short Forward,5500,9350,9200,2025-09-30,Goldman Sachs,Pirdop,100,825000
+POS-025,Lead,Long Physical,4500,2150,2180,2025-02-28,Ecobat,Lunen,30,135000

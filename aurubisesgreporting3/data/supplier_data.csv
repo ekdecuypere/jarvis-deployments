@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,material_type,annual_volume_tons,volume_share_pct,quality_score_q1,quality_score_q2,quality_score_q3,quality_score_q4,avg_quality_trend,delivery_reliability_pct,payment_terms_days,contract_expiry,risk_score,risk_category,geopolitical_risk_index,notes
+SUP-001,Codelco,Chile,Copper Concentrate,42000,18.5,94,95,94,96,improving,98.2,60,2026-12-31,15,Low,22,Strategic partner - innovation agreement signed 2024
+SUP-002,BHP Mining,Australia,Copper Concentrate,35000,15.4,92,93,91,92,stable,97.5,45,2025-06-30,18,Low,12,Long-term relationship - renewal pending
+SUP-003,Freeport McMoRan,USA,Copper Concentrate,28000,12.3,89,88,87,86,declining,96.1,30,2025-09-30,25,Medium,8,Quality issues noted - requires monitoring
+SUP-004,First Quantum,Zambia,Copper Concentrate,22000,9.7,91,90,89,88,declining,94.2,45,2025-03-31,35,Medium,48,Political instability concerns
+SUP-005,Antofagasta,Chile,Copper Concentrate,18000,7.9,93,94,93,94,stable,97.8,60,2026-03-31,16,Low,22,Reliable supplier
+SUP-006,TSR Recycling,Germany,Copper Scrap,15000,6.6,96,97,96,97,stable,99.1,30,2025-12-31,8,Low,5,Domestic - low risk
+SUP-007,Scholz Recycling,Germany,Copper Scrap,12000,5.3,95,94,95,96,stable,98.5,30,2025-12-31,10,Low,5,Domestic - low risk
+SUP-008,Sims Metal,Global,E-Waste,8500,3.7,88,89,90,91,improving,95.2,45,2025-06-30,22,Medium,15,Quality improving - Richmond preferred
+SUP-009,Stena Recycling,Sweden,E-Waste,6500,2.9,90,91,90,91,stable,96.8,45,2026-01-31,12,Low,8,Nordic reliability
+SUP-010,Boliden,Sweden,Copper Concentrate,8000,3.5,94,95,94,95,stable,98.9,30,2026-06-30,10,Low,8,Competitor but also supplier
+SUP-011,KGHM,Poland,Copper Concentrate,6500,2.9,87,86,85,84,declining,93.5,45,2025-03-31,32,Medium,18,Quality declining significantly
+SUP-012,Glencore Trading,Switzerland,Copper Concentrate,9000,4.0,91,92,91,92,stable,97.2,30,2025-09-30,14,Low,6,Trading partner
+SUP-013,Vale Base Metals,Brazil,Nickel/Copper,5500,2.4,90,89,90,91,stable,95.8,60,2025-12-31,28,Medium,32,Brazil political risk
+SUP-014,ERG (Eurasian),Kazakhstan,Copper Concentrate,4200,1.8,82,81,79,78,declining,88.5,60,2025-03-31,55,High,62,High geopolitical risk - diversify
+SUP-015,Aurubis Bulgaria,Bulgaria,Internal Transfer,0,0.0,98,98,98,98,stable,100.0,0,N/A,5,Low,15,Internal site
+SUP-016,MMG Limited,China/Australia,Copper Concentrate,3800,1.7,89,90,89,90,stable,94.5,45,2025-06-30,25,Medium,35,Mixed jurisdiction
+SUP-017,Teck Resources,Canada,Copper Concentrate,3200,1.4,93,94,93,94,stable,97.5,30,2026-03-31,12,Low,6,North American reliability
+SUP-018,Rio Tinto,Mongolia,Copper Concentrate,2800,1.2,91,90,89,88,declining,93.2,45,2025-09-30,38,Medium,45,Oyu Tolgoi - geopolitical concerns
+SUP-019,Southern Copper,Peru,Copper Concentrate,2500,1.1,88,87,86,85,declining,91.8,60,2025-06-30,42,High,52,Peru instability - community issues
+SUP-020,Lundin Mining,Portugal,Copper Concentrate,2200,1.0,94,95,94,95,stable,98.2,30,2026-01-31,10,Low,10,European source - strategic

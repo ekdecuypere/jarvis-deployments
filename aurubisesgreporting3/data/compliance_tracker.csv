@@ -1,0 +1,19 @@
+compliance_id,site,regulation_type,permit_name,issuing_authority,issue_date,expiry_date,status,days_to_expiry,renewal_submitted,copper_mark_certified,last_audit_date,next_audit_date,findings_count,critical_findings,responsible_person,notes
+COMP-001,Hamburg,Environmental,Industrial Emissions Permit,Hamburg Environmental Agency,2020-01-15,2025-06-30,Active,204,Yes,Yes,2024-09-15,2025-03-15,2,0,Dr. Mueller,Renewal in progress
+COMP-002,Hamburg,Environmental,Water Discharge Permit,Hamburg Water Authority,2019-07-01,2024-12-31,Expiring,23,Yes,Yes,2024-06-01,2025-06-01,1,0,Dr. Mueller,Critical - renewal pending
+COMP-003,Hamburg,Environmental,Air Quality Certificate,German EPA,2021-03-01,2026-03-01,Active,448,No,Yes,2024-03-01,2025-03-01,0,0,Dr. Mueller,Compliant
+COMP-004,Pirdop,Environmental,Integrated Permit,Bulgarian EPA,2018-06-01,2025-05-31,Active,174,Yes,Yes,2024-08-01,2025-02-01,3,0,Mr. Petrov,Expansion permit included
+COMP-005,Pirdop,Environmental,Water Use License,Bulgarian Water Directorate,2019-01-15,2025-01-15,Expiring,38,Yes,Yes,2024-07-15,2025-01-15,1,0,Mr. Petrov,Renewal submitted
+COMP-006,Olen,Environmental,VLAREM Permit,Flemish EPA,2020-09-01,2025-09-01,Active,267,No,Yes,2024-09-01,2025-03-01,1,0,Ms. Van Berg,Belgian compliance
+COMP-007,Olen,Environmental,Soil Protection Certificate,OVAM,2021-01-01,2026-01-01,Active,389,No,Yes,2024-01-01,2025-01-01,0,0,Ms. Van Berg,Clean record
+COMP-008,Lunen,Environmental,BImSchG Permit,NRW Environment Ministry,2019-04-01,2025-04-01,Active,114,Yes,Yes,2024-10-01,2025-04-01,2,0,Mr. Schmidt,Recycling focus
+COMP-009,Beerse,Environmental,Environmental Permit,Flemish EPA,2020-06-01,2025-06-01,Active,175,Yes,Yes,2024-06-01,2024-12-01,1,0,Ms. Janssen,Small site - simpler requirements
+COMP-010,Pori,Environmental,Environmental Permit,Finnish EPA,2018-12-01,2025-12-01,Active,358,No,Yes,2024-12-01,2025-06-01,0,0,Mr. Virtanen,Excellent compliance
+COMP-011,Richmond,Environmental,Air Quality Permit,Georgia EPD,2024-03-01,2029-03-01,Active,1178,N/A,Pending,2025-03-01,2025-09-01,0,0,Ms. Johnson,New facility - first audit pending
+COMP-012,Richmond,Environmental,Water Discharge NPDES,US EPA,2024-06-01,2029-06-01,Active,1270,N/A,Pending,2025-06-01,2025-12-01,0,0,Ms. Johnson,New facility
+COMP-013,Hamburg,Sustainability,Copper Mark Certification,Copper Mark,2023-01-01,2026-01-01,Active,389,N/A,Yes,2024-06-01,2025-06-01,0,0,Sustainability Team,Full certification
+COMP-014,Pirdop,Sustainability,Copper Mark Certification,Copper Mark,2023-03-01,2026-03-01,Active,448,N/A,Yes,2024-09-01,2025-09-01,0,0,Sustainability Team,Full certification
+COMP-015,All Sites,EU Regulation,EU Taxonomy Alignment,EU Commission,2024-01-01,Ongoing,In Progress,N/A,N/A,Yes,2024-06-01,2025-06-01,5,2,CFO Office,Critical for EIB financing
+COMP-016,All Sites,EU Regulation,CSRD Reporting,EU Commission,2025-01-01,Ongoing,Preparing,N/A,N/A,Yes,N/A,2025-06-01,N/A,0,CFO Office,First report due 2025
+COMP-017,All Sites,EU Regulation,Battery Regulation,EU Commission,2027-02-01,Ongoing,Monitoring,N/A,N/A,Yes,N/A,2025-12-01,N/A,0,Compliance Team,Upcoming - affects recycling
+COMP-018,All Sites,EU Regulation,Critical Raw Materials Act,EU Commission,2024-05-01,Ongoing,Active,N/A,N/A,Yes,2024-11-01,2025-05-01,1,0,Strategy Team,Strategic opportunity
